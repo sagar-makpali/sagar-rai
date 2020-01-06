@@ -1,0 +1,1 @@
+document.write(we are using js file)
